@@ -22,17 +22,10 @@
     margin-bottom: 10px;
     background-color: rgb(212, 211, 211);
 }
-footer {
-    width: 100%;
-    margin-top: 10px;
-    background-color: #555;
-    color: white;
-    padding: 10px;
-  }
   .label {
     background-color:  #4aaaa5;
     color: white;
-    /*border-bottom: 1px solid red; */
+    
   }
   .row {
       margin-left: 1px;
@@ -46,5 +39,22 @@ footer {
       background-color: white;
       width: 960px;
       padding: 10px;
+  }
+  .img-thumbnail {
+padding: 10px;
+  }
+  h5 {
+      margin-bottom: 30px;
+  }
+  .marsh {
+      width: 30%;
+      height: 200px;
+  }
+  footer {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #555;
+    color: white;
+    padding: 10px;
   }
   
