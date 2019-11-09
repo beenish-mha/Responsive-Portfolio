@@ -1,0 +1,50 @@
+.col-md-12 {
+    padding: 30px;
+    background-color: #dddddd;
+    border-bottom: 4px solid #4aaaa5;
+    padding-right: 40px;
+    
+}
+.col-md-4 {
+    background-color: white;
+    padding-top: 10px;
+}
+.col-md-8 {
+    background-color: white;  
+}
+.mypic {
+    width: 57%;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.navbar-default {
+    margin-bottom: 10px;
+    background-color: rgb(212, 211, 211);
+}
+footer {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #555;
+    color: white;
+    padding: 10px;
+  }
+  .label {
+    background-color:  #4aaaa5;
+    color: white;
+    /*border-bottom: 1px solid red; */
+  }
+  .row {
+      margin-left: 1px;
+      padding-right: 10px;
+  }
+  h3 {
+      color: #4aaaa5;;
+  }
+  .inner-div {
+      color: teal;
+      background-color: white;
+      width: 960px;
+      padding: 10px;
+  }
+  
