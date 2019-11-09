@@ -1,8 +1,9 @@
 .col-md-12 {
-    padding: 30px;
+    padding: 30px; 
     background-color: #dddddd;
     border-bottom: 4px solid #4aaaa5;
     padding-right: 40px;
+    margin-right: 20px ! important;
     
 }
 .col-md-4 {
@@ -11,6 +12,7 @@
 }
 .col-md-8 {
     background-color: white;  
+    /* margin-right: 10px ! important; */
 }
 .mypic {
     width: 57%;
@@ -28,8 +30,8 @@
     
   }
   .row {
-      margin-left: 1px;
-      padding-right: 10px;
+ margin-left: 1px;
+ padding-right: 10px;
   }
   h3 {
       color: #4aaaa5;;
